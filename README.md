@@ -11,4 +11,5 @@ As técnologias utilzadas foram:
 - Javascript.
 - JQuery.
 - PHP.
+- SQL.
 - Banco de Dados MySQL.
